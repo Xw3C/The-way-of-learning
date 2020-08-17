@@ -1,2 +1,4 @@
 # The-way-of-learning
-Study at school
+
+
+## Learning in life
